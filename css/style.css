@@ -1,0 +1,16 @@
+:root {
+    --color1: #F2F5FF;
+    --color2: #03191E;
+    --color3: #E3C567;
+    --color4: #FE938C;
+    --color5: #537A5A;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: "Fredoka", sans-serif;
+    font-size: 16px;
+}
